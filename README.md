@@ -13,5 +13,5 @@ commands to run the code
 # Sample output shown 
 <div align="center">
  <h4> output</h4>
-  <img src="./output1.png" height="223px">
+  <img src="./output1.png" height=400px">
 </div>
