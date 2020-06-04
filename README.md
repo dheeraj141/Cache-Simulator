@@ -11,7 +11,7 @@ Takes in the followig parameters
 there are further checked for proper values and for power of 2 and then proceeded and the trace file is given and it should have the format which is specified   EIP  R/W   memory address.  if you have a different format for the file a differnt function for that specific format can be plugged in.
 
 
-commands to run the code 
+ <b> commands to run the code </b> 
 
 1: make clean 
 
