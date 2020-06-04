@@ -8,7 +8,7 @@ commands to run the code
 
 2: make sim 
 
-3: <p> ./sim <cache_size> <associativity> <block_size> <eviction policy> <write policy> <trace file>  </p>
+3:./sim <cache_size> <associativity> <block_size> <eviction policy> <write policy> <trace file>
 
 
 
